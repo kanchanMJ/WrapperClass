@@ -15,5 +15,9 @@ public class Example1 {
 		}
 
 	}
+//<<<<<<< HEAD
 // git added 
+//=======
+// trying to pull code from repository to eclipse project
+//>>>>>>> branch 'master' of https://github.com/kanchanMJ/WrapperClass.git
 }
